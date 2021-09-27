@@ -1,0 +1,12 @@
+particle minecraft:portal ^ ^-0.5 ^0.5 0 0 0 0.1 10 force
+particle minecraft:portal ^ ^-0.5 ^1 0 0 0 0.1 10 force
+particle minecraft:portal ^ ^-0.5 ^1.5 0 0 0 0.1 10 force
+particle minecraft:portal ^ ^-0.5 ^2 0 0 0 0.1 10 force
+particle minecraft:portal ^ ^-0.5 ^2.5 0 0 0 0.1 10 force
+particle minecraft:portal ^ ^-0.5 ^3 0 0 0 0.1 10 force
+particle minecraft:portal ^ ^-0.5 ^3.5 0 0 0 0.1 10 force
+particle minecraft:portal ^ ^-0.5 ^4 0 0 0 0.1 10 force
+particle minecraft:portal ^ ^-0.5 ^4.5 0 0 0 0.1 10 force
+particle minecraft:portal ^ ^-0.5 ^5 0 0 0 0.1 10 force
+particle minecraft:portal ^ ^-0.5 ^5.5 0 0 0 0.1 10 force
+particle minecraft:portal ^ ^-0.5 ^6 0 0 0 0.1 10 force

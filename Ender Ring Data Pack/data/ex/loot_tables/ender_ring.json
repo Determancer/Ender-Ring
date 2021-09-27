@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:warped_fungus_on_a_stick",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Unbreakable: 1, HideFlags: 63, CustomModelData: 14, display: {Name: '{\"translate\": \"item.hallows.ender_ring\", \"color\": \"#8B008B\", \"italic\": false}',Lore:['{\"translate\": \"item.hallows.ender_ring.desc\", \"color\": \"dark_gray\"}']}}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

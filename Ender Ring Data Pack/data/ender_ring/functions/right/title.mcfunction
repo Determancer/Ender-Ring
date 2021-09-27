@@ -1,0 +1,3 @@
+execute as @s[scores={right-mode=0}] run title @s actionbar [{"translate": "title.hallows.ender_ring.mode", "color": "yellow"}, {"translate": "block.minecraft.ender_chest", "color": "light_purple"}]
+execute as @s[scores={right-mode=1}] run title @s actionbar [{"translate": "title.hallows.ender_ring.mode", "color": "yellow"}, {"translate": "block.minecraft.anvil", "color": "white"}]
+execute as @s[scores={right-mode=2}] run title @s actionbar [{"translate": "title.hallows.ender_ring.mode", "color": "yellow"}, {"translate": "title.hallows.ender_ring.mode.ashcan", "color": "dark_red"}]
